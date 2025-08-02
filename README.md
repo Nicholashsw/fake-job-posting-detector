@@ -12,6 +12,7 @@ Note: Not uploaded due to GitHub file size limit. See `/data/README.md` for setu
 
 ## Project Structure
 
+```
 fake-job-posting-detector/
 ├── data/
 │   └── README.md                  # Instructions to download large CSV
@@ -23,7 +24,8 @@ fake-job-posting-detector/
 │
 ├── .gitignore                     # Ignores large CSVs in /data
 ├── README.md                      # Full project documentation
-├── requirements.txt               # Package list to reproduce
+├── requirements.txt               # Package list to reproduce (optional)
+```
 
 
 ## Approach
