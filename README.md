@@ -26,7 +26,6 @@ fake-job-posting-detector/
 ├── requirements.txt               # Package list to reproduce
 
 
-
 ## Approach
 
 - **Text Cleaning**: Lowercase, punctuation, stopwords removal
